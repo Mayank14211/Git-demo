@@ -2,4 +2,5 @@
 This is my first git hub repo...
 <br>
 Author - MAYANK GUPTA
-Lenovo Ideapad slimm 3
+<br>
+Lenovo Ideapad slim 3
